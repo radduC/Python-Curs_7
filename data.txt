@@ -6,4 +6,22 @@ Creati o clasa numita Deck, care gestioneaza un pachet de carti.
 Trebuie sa aiba o metoda shuffle, care sa amestece cartile existente, o metoda de adaugare carti (cu verificare sa fie valida cartea si sa nu existe deja in pachet) si o metoda de eliminare carti din pachet (cu verificarile de rigoare). 
 Creati un obiect de tip Deck si testati metodele.
 
- 3.14529 -255.34 128 -1.9e10 123.12 720p
+ 3.14529, -255.34, 128, -1.9e10, 123.12, 720p
+
+http://mysite.com/photos/NevadaDesert.html
+http://mysite.com/photos/DeathValley.html
+http://mysite.com/photos/Carrum.html
+http://mysite.com/cats/PeggySue.html
+http://mysite.com/cats/Turbo.html
+http://mysite.com/documentation/Qualaroo.html
+http://mysite.com/documentation/personalwebsite.txt
+http://mysite.com/documentation/NextBigAndroidApp.php
+http://mysite.com/documentation/1337Resume.html 
+
+http://mysite.com/users/admin
+http://mysite.com/users/user1234
+http://mysite.com/users/mom
+http://mysite.com/contact
+http://mysite.com/about-us
+http://mysite.com/pricing/
+http://blog.mysite.com/
